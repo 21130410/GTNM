@@ -1,0 +1,241 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&amp;family=Poppins:ital,wght@0,300;0,400;0,500;1,100;1,500&amp;display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    text-decoration: none;
+    font-family: 'Roboto', 'sans-seri';
+}
+
+#header {
+    height: 80px;
+}
+#header .menu{
+    height: 60px;
+    background-color: #2fa1b3;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0px;
+    right: 0;
+    left: 0;
+    z-index: 1000;
+}
+#header .menu .icon-home{
+    margin-left: 100px;
+}
+#header .menu .icon-align{
+    margin-right: 100px;
+}
+#header .nav{
+    
+}
+.header a{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+}
+.header .logo{
+    font-size: 30px;
+    padding: 0 50px;
+}
+.header .menu a{
+    font-size: 16px;
+    padding: 0 10px;
+    transition: 0.4s;
+    display: inline-block;
+    line-height: 60px;
+    
+}
+.header .menu a:hover{
+    background-color:  #007BFE;
+}
+.header .menu{
+    /* margin-right: 80px; */
+}
+/* content */
+.content .title{
+    /* margin-left: 100px; */
+    margin-left: 50px;
+    /* margin-top: 90px; */
+    margin-top: 60px;
+}
+.content-item{
+    height: 560px;
+    margin-top: 10px;
+    /* margin-left: 100px; */
+    margin-left: 50px;
+    /* margin-right: 100px; */
+    margin-right: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.content-item .item{
+    width: 430px;
+    /* width: 530px; */
+}
+.content-item .item img{
+    /* width: 530px; */
+    width: 430px;
+
+}
+.content-item .item a{
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 21px;
+    color: #333;
+}
+.content-item .item h3{
+    color: #161616;
+    /* font-size: 24px; */
+    font-size: 20px;
+    /* line-height: 30px; */
+    line-height: 26px;
+    margin-top: 10px;
+    transition: 0.4s;
+}
+.content-item .item p{
+    margin-top: 20px;
+    font-size: 16px;
+    line-height: 21px;
+    transition: 0.4s;
+
+}
+.content-item .item h3:hover{
+    color: #2fa1b3;
+    
+}
+.content-item .item p:hover{
+    color: #2fa1b3;
+}
+
+.content2{
+    /* margin-left: 100px; */
+    margin-left: 10px;
+    margin-top: 50px;
+    position: relative;
+    
+}
+.content2 h2{
+
+}
+.content2 .box{
+margin-bottom: 20px;
+}
+.content2 .img{
+    position: absolute;
+    top: 0;
+    right: 10px;
+    right: 0;
+}
+.content2 .img{
+    /* width: 550px; */
+    /* margin-right: 100px; */
+    margin-right: 10px;
+}
+.content2 .img img{
+   margin-left: 200px;
+    height: 300px;
+}
+.content2 .img p{
+    font-size: 16px;
+    line-height: 21px;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 10px 0 2px;
+    color: #06c;
+    border-top: 2px solid #06c;
+    display: block;
+}
+.content2 .img ul{
+   margin-top: 20px;
+}
+.content2 .img ul a{
+    text-decoration: none;
+    color: #161616;
+    transition: 0.4s;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+}
+.content2 .img ul a:hover{
+    color: #007BFE;
+
+}
+.content2 .img ul li{
+    margin-bottom: 10px;
+}
+.content2 .img ul a:hover{
+    color: #007BFE;
+}
+.box >a{
+    text-decoration: none;
+    color: #161616;
+    transition: 0.4s;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 23px;
+}
+.box title{
+    
+}
+.box a:hover{
+    color: #007BFE;
+}
+.box .item{
+    display: flex;
+    width: 530px;
+    margin-top: 15px;
+}
+.item .left img{
+    /* width: 180px; */
+    width: 150px;
+    /* height: 120px; */
+    height: 90px;
+    }
+.item .right {
+margin-left: 20px;
+}
+.item .right a{
+    color: #333;
+    text-decoration: none;
+    font-size: 16px;
+}
+.item .right p{
+    margin-bottom: 10px;
+}
+.item .right .space{
+   margin-top: 20px;
+}
+/* content3 */
+
+.content3 {
+    display: flex;
+    /* margin-left: 100px; */
+    margin-left: 50px;
+}
+.item3{
+    margin-top: 80px;
+    height: 230px;
+    width: 240px;
+    margin-right: 20px;
+}
+.item3 a{
+    color: #161616;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 23px;
+    text-decoration: none;
+    transition: 0.4s;
+}
+.item3 a:hover{
+    color: #007BFE;
+    
+}
+.item3 img{
+    width: 225px;
+    height: 140px;
+}

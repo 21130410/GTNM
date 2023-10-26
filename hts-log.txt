@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 26 Oct 2023 16:31:27 at https://websitecanhan-b3e0b.web.app/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://websitecanhan-b3e0b.web.app/index.html -O1 "D:\copy website\GTNM2023" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:31:57	Error: 	"Not Found" (404) at link https://websitecanhan-b3e0b.web.app/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css (from https://websitecanhan-b3e0b.web.app/lab.html)
+16:31:57	Error: 	"Not Found" (404) at link https://websitecanhan-b3e0b.web.app/assets/img/vt-pay.png (from https://websitecanhan-b3e0b.web.app/lab.html)
+16:32:01	Error: 	"Not Found" (404) at link https://websitecanhan-b3e0b.web.app/cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css (from https://websitecanhan-b3e0b.web.app/ex2.html)
+16:32:01	Error: 	"Not Found" (404) at link https://websitecanhan-b3e0b.web.app/icdn.dantri.com.vn/zoom/528_352/2021/12/10/tphcm-bat-dau-tiem-mui-3-vaccine-phong-covid19-5-1639118187221.jpg (from https://websitecanhan-b3e0b.web.app/ex2.html)
+16:32:01	Error: 	"Not Found" (404) at link https://websitecanhan-b3e0b.web.app/vnn-imgs-f.vgcloud.vn/2021/12/10/14/bat-giam-cuu-giam-doc-benh-vien-tim-ha-noi-nguyen-quang-tuan-600x400.jpg (from https://websitecanhan-b3e0b.web.app/ex2.html)
+16:32:01	Error: 	"Not Found" (404) at link https://websitecanhan-b3e0b.web.app/photo-baomoi.zadn.vn/w300_r3x2_sm/2021_12_10_94_41152047/eeeb77c5c08729d97096.jpg (from https://websitecanhan-b3e0b.web.app/ex2.html)
+16:32:01	Error: 	"Not Found" (404) at link https://websitecanhan-b3e0b.web.app/icdn.dantri.com.vn/zoom/360_240/2021/12/10/xang-dau-3-crop-crop-1639120538517.jpg (from https://websitecanhan-b3e0b.web.app/ex2.html)
+16:32:01	Error: 	"Not Found" (404) at link https://websitecanhan-b3e0b.web.app/icdn.dantri.com.vn/zoom/480_320/2021/12/10/thuy-tienmiss-grand-4-crop-1639122574659.jpg (from https://websitecanhan-b3e0b.web.app/ex2.html)
+16:32:01	Error: 	"Not Found" (404) at link https://websitecanhan-b3e0b.web.app/adtima-media.zascdn.me/2021/12/38c3b104-488f-40ed-9301-8411e0406635.jpg (from https://websitecanhan-b3e0b.web.app/ex2.html)
+16:32:01	Error: 	"Not Found" (404) at link https://websitecanhan-b3e0b.web.app/icdn.dantri.com.vn/zoom/255_170/2021/12/10/truong-quoc-cuong-1639127822484.jpg (from https://websitecanhan-b3e0b.web.app/ex2.html)
+16:32:01	Error: 	"Not Found" (404) at link https://websitecanhan-b3e0b.web.app/icdn.dantri.com.vn/zoom/255_170/2021/12/10/nguyen-duc-chung3-1639114934213.jpg (from https://websitecanhan-b3e0b.web.app/ex2.html)
+16:32:01	Error: 	"Not Found" (404) at link https://websitecanhan-b3e0b.web.app/icdn.dantri.com.vn/zoom/255_170/2021/12/10/11639107282987-1639128024358.jpg (from https://websitecanhan-b3e0b.web.app/ex2.html)
+16:32:01	Error: 	"Not Found" (404) at link https://websitecanhan-b3e0b.web.app/icdn.dantri.com.vn/zoom/418_278/2021/11/30/chuan-crop-1638263146614.jpg (from https://websitecanhan-b3e0b.web.app/ex2.html)
+16:32:01	Error: 	"Not Found" (404) at link https://websitecanhan-b3e0b.web.app/use.fontawesome.com/releases/v5.1.1/css/all.css (from https://websitecanhan-b3e0b.web.app/ex1.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 34 seconds : 76 links scanned, 61 files written (7319017 bytes overall) [5124515 bytes received at 150721 bytes/sec], 7216029 bytes transferred using HTTP compression in 60 files, ratio 66%, 38.0 requests per connection
+(14 errors, 0 warnings, 0 messages)
